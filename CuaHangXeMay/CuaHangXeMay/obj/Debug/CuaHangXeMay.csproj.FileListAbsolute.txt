@@ -1,0 +1,94 @@
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojResolveAssemblyReference.cache
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Main.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_DongXe.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hangxe.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hdbh.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_KhachHang.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_loaixe.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhaCungCap.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhanVien.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhanKhoi.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_Xe.resources
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.Cache
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+E:\CongNghe.Net\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhieuNhap.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.AssemblyReference.cache
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Main.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_DongXe.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hangxe.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hdbh.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_KhachHang.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_loaixe.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhaCungCap.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhanVien.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhanKhoi.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhieuNhap.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_Xe.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangNhap.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmQuenMatKhau.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKyTaiKhoan.resources
+D:\TAM THIÊN ĐẠI THIÊN THẾ GIỚI\Tài nguyên HK1 2023-2024\CongNgheDotNet\Đồ án công nghệ .NET\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKy.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKy.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKyTaiKhoan.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangNhap.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmQuenMatKhau.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Main.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_DongXe.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hangxe.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hdbh.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_KhachHang.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_loaixe.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhaCungCap.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhanVien.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhanKhoi.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhieuNhap.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_Xe.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDoiMatKhau.resources
+E:\LuuDuLieuSinhVien\Khanh______Bang\CuaHangXeMay\CuaHangXeMay\CuaHangXeMay\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe.config
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.exe
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\bin\Debug\CuaHangXeMay.pdb
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.AssemblyReference.cache
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKy.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangKyTaiKhoan.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDangNhap.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmDoiMatKhau.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.frmQuenMatKhau.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Main.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Properties.Resources.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_DongXe.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hangxe.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_hdbh.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_KhachHang.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_loaixe.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhaCungCap.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_NhanVien.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhanKhoi.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_PhieuNhap.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.Qly_Xe.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CustomControls.RJControls.RJTextBox.resources
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.GenerateResource.cache
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.csproj.CoreCompileInputs.cache
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.exe
+D:\mahaCode\DA_QLCuaHangXeMay_DotNet\CuaHangXeMay\CuaHangXeMay\obj\Debug\CuaHangXeMay.pdb
